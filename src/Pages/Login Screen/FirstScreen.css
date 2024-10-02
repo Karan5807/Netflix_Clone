@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+* {
+    padding: 2%;
+    margin: 2%;
+    box-sizing: border-box;
+}
+
+.First_Screen_Header {
+    background-image: url("../../assets/SVG/Netflix_website_medium.jpg");
+    opacity: initial;
+    background-color: rgba(black, black, black, 100);
+}
+
+.NetflixBG {
+    width: 8rem;
+    height: 3rem;
+    padding: 2px;
+}
+
+.Shadow {
+    margin-top: 15rem;
+    font-family: 'Roboto', sans-serif;
+}
+
+.EmailInput {
+    justify-content: center;
+}
+
+.Input {
+    height: 2.3rem;
+    width: 18rem;
+    background-color: transparent;
+    padding: 1rem;
+    color: white;
+    border-color: azure;
+    border-width: 0.1rem;
+}
+
+.Content {
+    padding: 4rem;
+    background-color: black;
+}
+
